@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://amegeahi.github.io/sitemap_index.amegeahi
